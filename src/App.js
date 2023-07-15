@@ -1,7 +1,7 @@
 
 import { useEffect } from 'react';
 import './App.css';
-import { useTelegram } from '../hooks/userTelegram'
+import { useTelegram } from '../src/components/hooks/userTelegram'
 
 
 
